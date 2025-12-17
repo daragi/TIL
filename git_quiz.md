@@ -5,3 +5,6 @@
 2. git의 3공간은 working directory, staging area, repository 이다.
     - 답 : o
     - 이유 : 워킹 디렉토리는 사용자의 작업 공간, staging area는 변경 후 commit 대기, commit 완료 후 공유 저장소에 올라가는 것이      repository로 git의 총 3공간이다.
+3. github에 버전을 정하기 위해 git commit 명령어를 쓴다.
+    - 답: o
+    - 이유: git commit을 통해 변경된 내용을 github에 버전에 따라 저장한다.
