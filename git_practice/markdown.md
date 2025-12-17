@@ -58,4 +58,3 @@ mv a.txt hello
 ## 이미지
 ![git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png)
 
-## 표
