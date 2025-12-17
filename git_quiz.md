@@ -10,4 +10,7 @@
     - 이유: git commit을 통해 변경된 내용을 github에 버전에 따라 저장한다.
 4. git log를 통해 버전 기록들의 목록을 확인할 수 있다.
     - 답: o
-    - 이유: git log 를 통해 버전 기록들의 변화를 기록 가능 
+    - 이유: git log 를 통해 버전 기록들의 변화를 기록 가능
+5. 버전을 기록하는 프로세스는 git add -> git commit 이다.
+    - 답: o
+    - 이유: add를 통해 변경 상태가 있는 파일을 staging하고 staging된 파일을 commit하여 저장한다.
