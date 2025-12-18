@@ -4,6 +4,7 @@
 ## 분류
 ### `GIT`
 * git_practice: git/github 연동 및 마크다운 언어 학습
+* branch_practice: git/github 브랜치 및 PR 연습
 ### `Python`
 ### `SQL`
 ### `BI`
