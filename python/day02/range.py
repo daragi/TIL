@@ -43,5 +43,51 @@ print(len(names))
 # !현재 반복은 마지막으로 종료된 시점에서 유지된다.!
 print(number)
 
-# 2. 반복 횟수가 정해지지 않은 경우 => while
+# 인덱스 순회
+subjects = ['python', 'sql', 'BI', 'product_da', 'ML']
+for subject in subjects:
+    print(subject)
 
+for i in range(len(subjects)):
+    print(subjects[i])
+    
+# for 문 간단실습
+# 1~10 더한 값 55 출력하기
+
+total = 0
+for i in range(1,11):
+    total += i
+
+print(total)
+
+# 2. 반복 횟수가 정해지지 않은 경우 => while
+# while True = 무한 반복
+
+# while True:
+#     print('영원히 반복.......!')
+
+# while문에서 중요한 지점! 조건을 변화시킬 수 있는 무언가가 중요하다.
+numbers = [1,2,3,4,5,6,7,8,9,10]
+i = 0
+while i < len(numbers):
+    print(numbers[i])
+    # 무한 루프, 조건을 변화시킬 수 있는 식이 꼭 필요하다.
+    i += 1
+print(i)
+
+i = 0
+# while i < len(numbers):
+#     if i % 2 == 1: # 홀수 인덱스 케이스만 출력
+#         print(numbers[i])
+#         i += 1
+# if 문을 만족한 경우에만 조건이 바뀌지 않도록 주의
+
+# while 연습
+# 1~ 10 더한 값
+total = 0
+while True:
+    i += 1
+    total += i
+    if i == 10:
+        break
+print(total)
