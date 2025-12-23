@@ -9,7 +9,6 @@ student = {
 student['파이썬'] = 100
 
 # (3) 국어 점수는 85점입니다 형태로 출력
-
 for k, v in student.items():
     print(f'{k} 점수는 {v}점입니다')
     
