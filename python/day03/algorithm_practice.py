@@ -54,3 +54,10 @@ for num in nums:
     if min_num > num:
         min_num = num
 print(f'최소값은 {min_num}')
+
+# python_len 내장 함수 만들기
+def len_func(container):
+    count = 0
+    for _ in container: # _는 변수이다. 반복은 하겠지만 추출한 값을 쓰진 않겠다는 의미
+        count += 1
+    return count
