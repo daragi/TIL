@@ -50,15 +50,6 @@ for subject in subjects:
 
 for i in range(len(subjects)):
     print(subjects[i])
-    
-# for 문 간단실습
-# 1~10 더한 값 55 출력하기
-
-total = 0
-for i in range(1,11):
-    total += i
-
-print(total)
 
 # 2. 반복 횟수가 정해지지 않은 경우 => while
 # while True = 무한 반복
@@ -81,13 +72,3 @@ i = 0
 #         print(numbers[i])
 #         i += 1
 # if 문을 만족한 경우에만 조건이 바뀌지 않도록 주의
-
-# while 연습
-# 1~ 10 더한 값
-total = 0
-while True:
-    i += 1
-    total += i
-    if i == 10:
-        break
-print(total)

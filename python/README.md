@@ -16,3 +16,6 @@
 2. tuple => 컨테이너 튜플
 3. str => 컨테이너 문자열
 4. range => 컨테이너 range/loop
+
+> DAY03 (12/23)
+* day02_review
