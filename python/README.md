@@ -1,5 +1,7 @@
 # Python study
 
+### '*'파일은 복습/연습문제 풀이
+
 > DAY01 (12/19)
 1. Data_type => 자료형
 2. Variables => 변수
@@ -19,4 +21,7 @@
 
 > DAY03 (12/23)
 * day02_review
-1. break_continue.py => 반복문 제어
+* dict_practice
+1. break_continue => 반복문 제어
+2. dictionary => 자료구조와 딕셔너리
+3. set => 집합
