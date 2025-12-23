@@ -28,3 +28,4 @@
 4. membership_operator => 멤버십 연산자
 5. algorithm => 멤버십 연산자 연습
 6. algorithm_practice => 알고리즘 문제풀이
+7. list_dict_loop => 리스트, 딕셔너리, 반복문 종합

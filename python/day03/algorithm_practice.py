@@ -18,14 +18,22 @@ for vote in votes:
 print(vote_dict)
 
 # 최다 득표의 value 구하기
+
+
+# 동점이 있을 경우에
+
+max_votes = 0
+max_name = []
+for k,v in vote_dict.items():
+    if v >= max_votes:
+        max_counts = v
+        max_name.append(k)
+
+# 동점이 없을 경우에
+
 max_votes = 0
 max_name = ''
-# for count in vote_dict.values():
-#     if count > max_votes:
-#         max_votes = count
-
-
-for k,v in vote_dict.items():
+for k, v in vote_dict.items():
     if v > max_votes:
         max_votes = v
         max_name = k
