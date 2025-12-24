@@ -34,11 +34,11 @@ def sales_min_value_max_value(new_sales):
     for high in new_sales:
         if high > max_value:
             max_value = high
-    print(f'최고매출은 {new_sales.index(max_value)}일차이고 해당 금액은 {max_value} 입니다.')
+    print(f'최고매출은 {new_sales.index(max_value) + 1}일차이고 해당 금액은 {max_value} 입니다.')
             
     for low in new_sales:     
         if low < min_value:
             min_value = low
-    print(f'최저매출은 {new_sales.index(min_value)}일차이고 해당 금액은 {min_value} 입니다.')
+    print(f'최저매출은 {new_sales.index(min_value) + 1}일차이고 해당 금액은 {min_value} 입니다.')
     
 sales_min_value_max_value(new_sales)
