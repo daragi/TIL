@@ -29,3 +29,9 @@
 5. algorithm => 멤버십 연산자 연습
 6. algorithm_practice => 알고리즘 문제풀이
 7. list_dict_loop => 리스트, 딕셔너리, 반복문 종합
+
+> DAY04 (12/24)
+* day03_review
+1. func => 함수
+2. func_return_parameter => 함수 입력과 반환 실습
+3. lambda => 익명 함수

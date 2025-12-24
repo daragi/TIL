@@ -57,4 +57,42 @@ print(max(numeric))
 
 # 최소값
 print(min(numeric))
+
+# sorted() 정렬 내장 함수
+numbers = [2,5,1,7,8] # 리스트  =  순서 0
+print(sorted(numbers))
+# 순서가 존재 한다 = 정렬x
+
+numbers_new = sorted(numbers) # sorted는 휘발성, 원본 리스트를 바꾸진 않음
+print(numbers_new)
+
+print(sorted(numbers, reverse=True))
+print(sorted(numbers, key=lambda x:-x)) # 익명함수를 통해서도 가능
+
+users = {
+    'name': ['jun','alex','chelsea'],
+    'age' : [21,19,22],
+    'is_male' : [True, True, False]
+        }
+
+print(sorted(users))
+
+# map(적용 함수, 함수를 적용할 각 원소) : 반복가능한 모든 개체에 함수를 전달하여 결과를 반환
+# 컨테이너 자료형의 각 원소에 함수를 적용한 후, 그 결과를 반환
+# 방법 1
+number_str = '12345'
+number_lst = list(number_str)
+numbers = []
+for n in number_lst:
+    numbers.append(int(n))
     
+print(numbers) # 너무 식이 길기에 map을 통해 간편화
+
+# 방법 2: 
+map(int , number_str)
+
+numbers = list(map(int, number_str))
+print(numbers)
+numbers = list(map(len, number_str))
+print(numbers)
+
