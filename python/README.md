@@ -35,3 +35,6 @@
 1. func => 함수
 2. func_return_parameter => 함수 입력과 반환 실습
 3. lambda => 익명 함수
+4. method_list => 파이썬 list 메소드
+5. method_str = > 파이썬 문자열 메소드
+6. method_dict_set = > 파이썬 딕셔너리/집합 메서드
