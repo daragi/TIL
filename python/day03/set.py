@@ -33,4 +33,4 @@ print(set1.intersection(set2))
 
 # 3) 차집합
 print(set1 - set2)
-print(set1.difference)
+print(set1.difference(set2))

@@ -15,5 +15,5 @@ print(word_list)
 # 문자열 합치기 : join()
 string_list = ['merry', 'christmas', '!!', 'happy', 'holiday', '!!']
 print(len(string_list))
-string_join = ' '.join(string_list)
+string_join = '^'.join(string_list)
 print(string_join)
