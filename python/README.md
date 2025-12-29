@@ -38,3 +38,7 @@
 4. method_list => 파이썬 list 메소드
 5. method_str = > 파이썬 문자열 메소드
 6. method_dict_set = > 파이썬 딕셔너리/집합 메서드
+
+> DAY05 (12/25)
+* day04_review
+1. module => 모듈
