@@ -27,7 +27,7 @@ print_starts()
 # new_sales = list(input('새로운 매출 리스트를 넣어주세요.'))
 new_sales = [400, 1000, 10, 100, 554, 340, 300, 2040, 1060]
 
-def sales_min_value_max_value(new_sales):
+def min_max_value(new_sales):
     max_value = 0
     min_value = 10000
     
@@ -40,5 +40,5 @@ def sales_min_value_max_value(new_sales):
         if low < min_value:
             min_value = low
     print(f'최저매출은 {new_sales.index(min_value) + 1}일차이고 해당 금액은 {min_value} 입니다.')
-    
-sales_min_value_max_value(new_sales)
+
+min_max_value(new_sales)
