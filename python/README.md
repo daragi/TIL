@@ -85,6 +85,3 @@
 1. module => 모듈
 2. module_A => 모듈 함수 정의
 3. try_except => 예외처리
-
-> DAY06 (12/30)
-1. API => API로 데이터 연계
