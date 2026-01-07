@@ -7,9 +7,10 @@
 * branch_practice: git/github 브랜치 및 PR 연습
 ### `Python`
 * python 폴더 내의 `README.md` 참고
+### `Stat`
+* python을 활용한 통계 및 데이터 분석
 ### `SQL`
 ### `BI`
 ### `ML`
-### `Theory`
 ### `ETC`
 * API: API 연동 및 가상환경 설정, 데이터셋 활용 (.gitignore - 12/30) 
