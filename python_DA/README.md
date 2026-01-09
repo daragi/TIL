@@ -46,3 +46,4 @@
 1. choosing_data => pandas 데이터 추출, 선택
     * practice_choosing_data => 데이터 선택/추출 연습
 2. data_update => 데이터 수정하기
+    * practice_data_update => 데이터 수정 연습
