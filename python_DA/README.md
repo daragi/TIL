@@ -43,3 +43,6 @@
 2. 0108_start_colab => 데이터 로드 및 확인하기
    
 > DAY03 (01/09)
+1. choosing_data => pandas 데이터 추출, 선택
+    * practice_choosing_data => 데이터 선택/추출 연습
+2. data_update => 데이터 수정하기
