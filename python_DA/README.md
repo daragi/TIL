@@ -39,11 +39,11 @@
 4. 가설 검정과 해석 => 애매한 상황에서 오류를 통제하며 검정
 
 > DAY02 (01/08)
-1. 0108_pandas1 => pandas 동작원리, 코드로 이해
-2. 0108_start_colab => 데이터 로드 및 확인하기
+1. cheking_data => pandas 동작원리, 코드로 이해
+2. start_colab => 데이터 로드 및 확인하기
    
 > DAY03 (01/09)
 1. choosing_data => pandas 데이터 추출, 선택
-    * practice_choosing_data => 데이터 선택/추출 연습
+    * practice1 => 데이터 선택/추출 연습
 2. data_update => 데이터 수정하기
-    * practice_data_update => 데이터 수정 연습
+    * practice2 => 데이터 수정 연습
