@@ -47,3 +47,7 @@
     * practice1 => 데이터 선택/추출 연습
 2. data_update => 데이터 수정하기
     * practice2 => 데이터 수정 연습
+  
+> DAY04 (01/12)
+1. basic_visualization => pandas 기본 시각화
+2. preprocess => 결측치/이상치 처리
