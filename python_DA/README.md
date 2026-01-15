@@ -51,3 +51,9 @@
 
 > DAY05 (01/13)
 1. preprocess2 => 전처리, 시각화, 문자열 처리
+   
+> DAY06 (1/14)
+1. summary_data => 데이타 요약/합치기/재구조화
+
+> DAY07 (1/15)
+1. visualization => seaborn 데이터 시각화
