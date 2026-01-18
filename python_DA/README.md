@@ -57,3 +57,6 @@
 
 > DAY07 (1/15)
 1. visualization => seaborn 데이터 시각화
+
+> DAY08 (1/16)
+1. sequential => 시계열 데이터 분석
