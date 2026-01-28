@@ -34,6 +34,6 @@
 > DAY01 (01/28)
 1. 1_check_db.sql => `SHOW`, `DESCRIBE` 문법 숙지
 2. 2_sql_intro.sql => SQL 기본 사용법
-3. 3_ddl.sql => DDL 기초
-4. 
-
+3. 3_ddl.sql => DDL 기초 (`CREATE`, `ALTER`, `DROP`, `MODIFY`)
+4. 4_dml.sql => DML 기초 (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)
+*day01_practice => DDL/DML 연습

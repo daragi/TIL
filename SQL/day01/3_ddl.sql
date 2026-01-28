@@ -33,3 +33,10 @@ CREATE TABLE test (
     id INT PRIMARY KEY,
     name VARCHAR(20)
 );
+DROP TABLE test;
+
+-- 있는 경우에만 삭제
+DROP TABLE IF EXISTS test;
+
+-- (4) 이름 변경
+RENAME TABLE users TO user_info;
