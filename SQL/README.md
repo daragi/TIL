@@ -36,4 +36,4 @@
 2. 2_sql_intro.sql => SQL 기본 사용법
 3. 3_ddl.sql => DDL 기초 (`CREATE`, `ALTER`, `DROP`, `MODIFY`)
 4. 4_dml.sql => DML 기초 (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)
-*day01_practice => DDL/DML 연습
+* day01_practice => DDL/DML 연습
