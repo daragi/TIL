@@ -47,3 +47,7 @@
 5. 5_having => 집계 조건문
 
 > DAY03 (01/30)
+* day02_wrapup => SELECT , GROUP BY 복습
+1. 1_orderby.sql => 정렬
+2. 2_join_basic.sql => 테이블 join
+3. 3_join_adv.sql => 테이블 join 심화
