@@ -26,4 +26,25 @@ VALUES (104, 'ken',NULL,'2000.04.18');
 INSERT INTO user_info(user_id,name,birthday)
 VALUES (105, 'hobby','1999.01.13');
 
-DESC user_info;
+SELECT * FROM user_info
+
+-- [2] SELECT : 데이터 조회
+SELECT * 
+FROM user_info
+WHERE email IS NULL
+
+-- [3] UPDATE : 값 수정
+UPDATE user_info
+SET birthday ='1998-12-31'
+WHERE name = 'jun';
+
+SELECT * 
+FROM user_info
+WHERE name = 'jun';
+
+-- [4] DELETE : 값 삭제
+DELETE FROM user_info
+WHERE email IS NULL;
+
+SELECT * 
+FROM user_info;

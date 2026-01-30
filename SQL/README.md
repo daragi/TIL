@@ -37,3 +37,13 @@
 3. 3_ddl.sql => DDL 기초 (`CREATE`, `ALTER`, `DROP`, `MODIFY`)
 4. 4_dml.sql => DML 기초 (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)
 * day01_practice => DDL/DML 연습
+
+> DAY02 (01/29)
+* day01_wrapup => DDL, DML 복습
+1. 1_select => SELECT 기본
+2. 2_select_logic => SELECT 처리
+3. 3_where => WHERE 조건문
+4. 4_groupby => 집계
+5. 5_having => 집계 조건문
+
+> DAY03 (01/30)
