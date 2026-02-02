@@ -63,7 +63,7 @@ WHERE f.rental_rate >
 
 -- 해당 고객의 모든 결제 ID와 결제액을 조회하되, 전체 고객의 평균 결제액을 모든 행에 함께 표시하세요.
 SELECT * FROM payment;
-SELECT payment_id, amount, (SELECT AVG(amount) FROM payment)
+SELECT payment_id, amount, (SELECT AVG(amount) FROM payment) 평균결제액
 FROM payment;
 
 -- 먼저 ‘Action’ 카테고리에 속한 영화 ID 목록을 구한 뒤, 그 영화들에 해당하는 재고 정보만 inventory 테이블에서 조회하세요.
