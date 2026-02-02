@@ -54,4 +54,6 @@
 
 > DAY04 (02/02)
 * day03_wrapup => join 복습
-  
+1. 1_self_join.sql
+2. 2_view.sql
+3. 3_subquery.sql
