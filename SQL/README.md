@@ -39,21 +39,22 @@
 * day01_practice => DDL/DML 연습
 
 > DAY02 (01/29)
-* day01_wrapup => DDL, DML 복습
-1. 1_select => SELECT 기본
-2. 2_select_logic => SELECT 처리
-3. 3_where => WHERE 조건문
+* day01_wrapup => `DDL`, `DML` 복습
+1. 1_select => `SELECT` 기본
+2. 2_select_logic => `SELECT` 처리
+3. 3_where => `WHERE` 조건문
 4. 4_groupby => 집계
 5. 5_having => 집계 조건문
 
 > DAY03 (01/30)
-* day02_wrapup => SELECT , GROUP BY 복습
+* day02_wrapup => `SELECT` , `GROUP BY` 복습
 1. 1_orderby.sql => 정렬
-2. 2_join_basic.sql => 테이블 join
-3. 3_join_adv.sql => 테이블 join 심화
+2. 2_join_basic.sql => 테이블 `join`
+3. 3_join_adv.sql => 테이블 `join` 심화
 
 > DAY04 (02/02)
 * day03_wrapup => join 복습
-1. 1_self_join.sql
-2. 2_view.sql
-3. 3_subquery.sql
+1. 1_self_join.sql => `SELF JOIN` 예제
+2. 2_view.sql => `VIEW` 생성/수정/삭제
+3. 3_subquery.sql => 서브쿼리
+4. 4_subquery_corr.sql => 연관/비연관 서브쿼리
