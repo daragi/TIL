@@ -51,3 +51,7 @@
 1. 1_orderby.sql => 정렬
 2. 2_join_basic.sql => 테이블 join
 3. 3_join_adv.sql => 테이블 join 심화
+
+> DAY04 (02/02)
+* day03_wrapup => join 복습
+  
