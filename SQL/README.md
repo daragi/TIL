@@ -61,3 +61,6 @@
 > DAY05 (02/03)
 * day04_wrapup => 서브쿼리 복습
 1. 1_cte => 서브쿼리 대체문 `CTE` 학습
+2. 2_data_types => 형변환
+3. 3_func => sql 함수
+4. 4_preprocessing => 조건분기 `IF`, `CASE~WHEN`, NULL 처리, 중복 제거
