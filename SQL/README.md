@@ -27,7 +27,6 @@
 ├── day08/                     # 데이터 모델링 & ERD 실습 (보너스)
 └── data/                      # 실습용 Sample DB (ex. employees, e-commerce, sns)
 ```
-
 ---
 ## 📚 상세 커리큘럼
 
@@ -58,3 +57,7 @@
 2. 2_view.sql => `VIEW` 생성/수정/삭제
 3. 3_subquery.sql => 서브쿼리
 4. 4_subquery_corr.sql => 연관/비연관 서브쿼리
+
+> DAY05 (02/03)
+* day04_wrapup => 서브쿼리 복습
+1. 1_cte => 서브쿼리 대체문 `CTE` 학습
