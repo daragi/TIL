@@ -28,6 +28,13 @@
 └── data/                      # 실습용 Sample DB (ex. employees, e-commerce, sns)
 ```
 ---
+### SQL 과목 강의자료 및 실습 진행 아카이빙을 위한 저장소
+- 1일차 (1/28) : MySQL 설치 ~ 실전! DDL과 DML
+- 2일차 (1/29) : SELECT 구문의 이해 ~ HAVING으로 추가 필터링 하기
+- 3일차 (1/30) : ORDER BY로 정렬하기 ~ 실전! SQL 실습 (6)
+- 4일차 (2/2) : 또다른 JOIN의 형태 ~ 실전! SQL 실습 (8)
+- 5일차 (2/3) : CTE ~ 실전! SQL 실습 (11)
+---
 ## 📚 상세 커리큘럼
 
 > DAY01 (01/28)
@@ -64,3 +71,7 @@
 2. 2_data_types => 형변환
 3. 3_func => sql 함수
 4. 4_preprocessing => 조건분기 `IF`, `CASE~WHEN`, NULL 처리, 중복 제거
+
+> DAY06 (02/04)
+* day05_wrapup => `CTE` , 함수, 전처리 복습
+1. 1_window => 윈도우 (누적,이동, 순위,etc..)
