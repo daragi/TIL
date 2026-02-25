@@ -17,6 +17,7 @@
 ├── SQL/            # SQL 문법 및 데이터 처리 학습
 ├── branch_practice/# Git 브랜치 실습
 ├── git_practice/   # Git 기초 및 버전 관리
+├── product_DA/     # Product 데이터 분석 기법
 ├── python/         # Python 기초 문법 학습
 └── python_DA/      # Python 기반 데이터 분석 및 통계
 ```
@@ -99,6 +100,25 @@ API 활용 방법을 학습합니다.
 - 외부 서비스 연동
 
 ---
+
+## 7️⃣ Product Data Analysis
+
+사용자 행동 데이터를 기반으로  
+**제품 성장 구조를 분석하는 Product Analytics 학습 공간**입니다.
+
+AARRR, Funnel, User Journey, Retention 분석을 통해  
+단순 지표 확인이 아닌 **성장 병목과 개선 포인트를 구조적으로 도출**합니다.
+
+- AARRR Framework 분석
+- Funnel 전환율 분석
+- User Journey Mapping
+- Retention & Cohort 분석
+- KPI Tree & North Star Metric 정의
+- 가설 설정 및 실험 설계
+
+=> 문제 정의 → 지표 설계 → 분석 → 인사이트 → 액션 제안 흐름으로 구성
+
+## 
 
 # 🎯 Goal
 
