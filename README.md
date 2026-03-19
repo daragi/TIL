@@ -86,9 +86,9 @@ BI 분석 및 시각화 실습 공간입니다.
 * 분류 / 회귀 모델 실습
 * Feature Engineering
 * 모델 성능 평가 (Accuracy, Precision, Recall, F1, ROC-AUC)
-* Ensemble (RandomForest, LightGBM, XGBoost)
-* Fraud Detection / Classification 실습
-* Imbalanced Data Handling (SMOTE, Class Weight)
+* Ensemble (RandomForest, XGBoost, 의사결정나무, 로지스틱회귀)
+* Data Mining (Feature Importance, K-Means)
+* 교차검증 / Hyper_Parameter
 
 ⇒ 데이터 전처리 → 모델링 → 평가 → 개선 흐름으로 구성
 
